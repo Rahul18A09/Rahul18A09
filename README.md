@@ -34,7 +34,7 @@ Database:
 <!-- <p>- Build APIs & backend systems</p> -->
 
 📫 **Let’s Connect**  
-[📧 Email Me](mailto:rahulbharda60@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/divyashrma18/)
+[📧 Email Me](mailto:rahulbharda60@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/ rahul-bharada-83275a365)
 
 ---
 
