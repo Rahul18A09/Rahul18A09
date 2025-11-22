@@ -26,8 +26,11 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-
+💻 GitHub Contribution Graph 
 ![Github Contribution Graph](https://ghchart.rshah.org/Rahul18A09)
+
+🥇 Activity Graph 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=github)
 
 🌟 **What I Do**
 - Create responsive, mobile-first websites
