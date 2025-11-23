@@ -66,11 +66,13 @@
 ---
 
 💻 GitHub Contribution Graph 
+
 ![Github Contribution Graph](https://ghchart.rshah.org/Rahul18A09)
 
 ---
 
 🥇 Activity Graph 
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=github)
 
 ---
