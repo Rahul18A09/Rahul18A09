@@ -50,7 +50,7 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,nodejs,expressjs,mongodb&theme=light" />
   </a>
 </p>
 
