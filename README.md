@@ -1,66 +1,12 @@
-<h1 align="center">Hi there, I'm Rahul Bharada 👋</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
-
----
-
-🚀 **About Me**  
-I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
-</p>
-
-
-
-
-🛠️ **Tech Stack**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-blueviolet?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-💻 GitHub Contribution Graph 
-![Github Contribution Graph](https://ghchart.rshah.org/Rahul18A09)
-
-🥇 Activity Graph 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=github)
-
-🌟 **What I Do**
-- Create responsive, mobile-first websites
-- Integrate smooth animations & motion
-- Optimize for performance & scalability
-<!-- <p>- Build APIs & backend systems</p> -->
-
-📫 **Let’s Connect**  
-[📧 Email Me](mailto:rahulbharda60@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/ rahul-bharada-83275a365)
-
----
-
-⚡ _“Code is like magic — if you know the spell, you can build anything.”_
-
-
-
-
-
-
-
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Amine%20Hamzaoui&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 <h1 align="center">Hi there, I'm Rahul Bharada 👋</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
 
-💡 *“Crafting logic and elegance in every line of code.”*
+---
+
+💡 *“Code is like magic — if you know the spell, you can build anything.”*
 
 ---
 
@@ -104,7 +50,7 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,nodejs,expressjs,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb&theme=light" />
   </a>
 </p>
 
@@ -113,13 +59,25 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=light" />
   </a>
 </p>
 
 ---
 
+💻 GitHub Contribution Graph 
+![Github Contribution Graph](https://ghchart.rshah.org/Rahul18A09)
+
+---
+
+🥇 Activity Graph 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=github)
+
+---
+
 ### 📊 GitHub Statistics
+
+---
 
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
