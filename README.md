@@ -75,7 +75,7 @@
 
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296&hide_border=false" 
+  src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=30,091519,000000&border_color=3a8296&hide_border=false" 
   height="170em"
 />
 
