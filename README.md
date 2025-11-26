@@ -50,7 +50,8 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,nodejs,expressjs,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react&theme=light" />
+    <!-- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,nodejs,expressjs,mongodb&theme=light" /> -->
   </a>
 </p>
 
@@ -76,11 +77,6 @@
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-
-
-
-
-
 
 ---
 
