@@ -74,11 +74,9 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&theme=neon&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-</p>
 
 ---
 
