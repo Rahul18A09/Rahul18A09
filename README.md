@@ -36,15 +36,6 @@
   </a> -->
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rahul18A09">
-    <img src="https://komarev.com/ghpvc/?username=Rahul18A09&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/Rahul18A09">
-    <img src="https://img.shields.io/github/followers/Rahul18A09?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
-
 ---
 
 ### 🧠 Skills
