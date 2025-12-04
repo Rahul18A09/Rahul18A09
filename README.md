@@ -22,9 +22,10 @@
   <a href="mailto:rahulbharda60@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="[https://www.linkedin.com/in/ rahul-bharada-83275a365]">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
+ <a href="https://www.linkedin.com/in/rahul-bharada-83275a365">
+  <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" />
+</a>
+
   <!-- <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
