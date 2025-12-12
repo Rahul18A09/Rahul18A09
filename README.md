@@ -71,7 +71,7 @@
 
 ---
 
-<div align="center">
+<div align="end">
 
 ## 🚀 GitHub Overview
 
