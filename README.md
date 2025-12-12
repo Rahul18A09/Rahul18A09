@@ -71,12 +71,26 @@
 
 ---
 
-### 🧩 Most Used Languages
+<div align="center">
 
+## 🚀 GitHub Overview
+
+### 📊 GitHub Stats
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" 
-  height="170em"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rahul18A09&theme=radical&hide_border=true&show_icons=true&bg_color=000000,091519&title_color=61DAFB&text_color=C8E1FF"
 />
+
+### 🔥 GitHub Streak
+<img 
+  src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB"
+/>
+
+### 🏆 Most Used Languages
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=true&custom_title=Most%20Used%20Languages"
+/>
+
+</div>
 
 ---
 
