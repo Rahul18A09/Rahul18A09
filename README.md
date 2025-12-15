@@ -69,9 +69,16 @@
 
 ### 🏆 Most Used Languages
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=true&custom_title=Most%20Used%20Languages"
-/>
-
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=true&custom_title=Most%20Used%20Languages"/>
+</div>
+---
+<div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&locale=en&theme=dark&border_radius=5&border=5px%20solid%20white" 
+       alt="Rahul18A09" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul18A09&theme=dark&border_radius=5&hide_border=true&border=5px%20solid%20white" 
+       alt="Rahul18A09" />
+</p>
 </div>
 
 ---
