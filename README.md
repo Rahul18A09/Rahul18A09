@@ -57,12 +57,6 @@
 
 ---
 
-💻 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=github)
-
----
-
 ### 📊🚀 GitHub Statistics
 
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -71,9 +65,7 @@
 
 <div align="start">
 ### 🔥 GitHub Streak
-<img 
-  src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB"
-/>
+<img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB"/>
 
 ### 🏆 Most Used Languages
 <img 
