@@ -62,6 +62,13 @@
 <img 
   src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB"
 />
+    
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&locale=en&theme=dark&border_radius=5&border=5px%20solid%20white" 
+       alt="Rahul18A09" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul18A09&theme=dark&border_radius=5&hide_border=true&border=5px%20solid%20white" 
+       alt="Rahul18A09" />
+</p>
 
 
 ### 🏆 Most Used Languages
