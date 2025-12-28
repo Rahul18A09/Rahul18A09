@@ -1,7 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Rahul%20Bharada👋&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Web%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
-<!-- <h1 align="center">Hi there, I'm Rahul Bharada </h1> -->
 <h3 align="center">Aspiring Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
 
 ---
@@ -28,12 +27,6 @@
  <a href="https://www.instagram.com/_rahul_0918_?igsh=MWY0M3hmMXd0OGxqNw==">
   <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
  </a>
-  <!-- <a href="https://www.facebook.com/share/1EZqQrtBKf/">
-    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
-  </a> -->
-  <!-- <a href="https://discord.com/users/805123459566010417">
-    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
-  </a> -->
 </p>
 
 ---
@@ -41,8 +34,7 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react&theme=light" />
-    <!-- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,nodejs,expressjs,mongodb&theme=light" /> -->
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vite&theme=light" />
   </a>
 </p>
 
