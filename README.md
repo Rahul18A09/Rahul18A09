@@ -31,14 +31,19 @@
 
 ---
 
-### 🧠 Skills
+### 🧠FrontEnd Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vite&theme=light" />
   </a>
 </p>
 
----
+### 🧠BackEnd Skills (Exploring)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,express,mongo&theme=light" />
+  </a>
+</p>
 
 ### ⚙️ Tools
 <p align="center">
