@@ -51,13 +51,18 @@
 
 <div align="start">
 ### 🔥 GitHub Streak
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&background=000000" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=dark&border_radius=5" />
-</p>
+</p> -->
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=dark)
+
 
 
 
