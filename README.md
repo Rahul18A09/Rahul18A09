@@ -51,23 +51,9 @@
 
 <div align="start">
 ### 🔥 GitHub Streak
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&background=000000" />
-</p> -->
+<img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true" />
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=dark&border_radius=5" />
-</p> -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=dark)
-
-
-
-
-
-### 🏆 Most Used Languages
+🏆 Most Used Languages
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=true&custom_title=Most%20Used%20Languages"/></p>
 </div>
 
