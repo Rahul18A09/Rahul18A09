@@ -51,14 +51,20 @@
 
 <div align="start">
 ### 🔥 GitHub Streak
-<p align="center"><img 
-  src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB"
-/></p>
-    
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&locale=en&theme=dark&border_radius=5&border=5px%20solid%20white" 
-       alt="Rahul18A09" />
+  <img
+    src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB"
+    alt="Rahul18A09 GitHub Streak"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=dark&border_radius=5"
+    alt="Rahul18A09 GitHub Stats"
+  />
+</p>
+
 
 
 ### 🏆 Most Used Languages
