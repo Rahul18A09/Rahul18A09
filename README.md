@@ -41,7 +41,7 @@
 ### 🧠BackEnd Skills (Exploring)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,express,mongo&theme=light" />
+  <img src="https://skillicons.dev/icons?i=node,express,mongo&theme=dark&perline=6" />
   </a>
 </p>
 
