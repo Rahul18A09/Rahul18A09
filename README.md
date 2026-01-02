@@ -54,7 +54,11 @@
 <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true" />
 
 🏆 Most Used Languages
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=true&custom_title=Most%20Used%20Languages"/></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=radical" height="180"/>
+</p>
+
 </div>
 
 ---
