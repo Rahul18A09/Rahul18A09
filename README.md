@@ -41,9 +41,14 @@
 ### 🧠BackEnd Skills (Exploring)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,express,mongodb&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=4" />
   </a>
 </p>
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=4" />
+</p> -->
+
 
 ### ⚙️ Tools
 <p align="center">
