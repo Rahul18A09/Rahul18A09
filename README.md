@@ -62,25 +62,7 @@
 ## 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true" />
-</p>
-
-## 🏆 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 Top Contributed Repositories
-
-<p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=Rahul18A09&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false"
-    height="170em"
-    alt="Top Contributors Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 
