@@ -62,7 +62,10 @@
 ## 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img 
+  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight" />
+/>
+
 </p>
 
 
