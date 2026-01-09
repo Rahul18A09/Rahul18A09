@@ -65,7 +65,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=redical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true" />
+</p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=radical&hide_border=true" />
+</p>
 ---
 
 ## ✍️ Random Dev Quote
