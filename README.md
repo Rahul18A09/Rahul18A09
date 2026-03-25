@@ -61,18 +61,20 @@
 
 ## 🔥 GitHub Streak
 
-<p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night"/></p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=radical&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ## ✍️ Random Dev Quote
