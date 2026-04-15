@@ -64,12 +64,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img height="165em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rahul18A09&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://komarev.com/ghpvc/?username=Rahul18A09&label=Profile%20Views&color=blue&style=flat" />
+  
+  <img src="https://img.shields.io/github/followers/Rahul18A09?label=Followers&style=social" />
 </p>
 
 ## ✍️ Random Dev Quote
