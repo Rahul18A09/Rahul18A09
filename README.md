@@ -63,10 +63,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-       
+<p align="center">  
   <img height="170"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
