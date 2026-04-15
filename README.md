@@ -59,14 +59,25 @@
 
 ---
 
-## 🔥 GitHub Streak
+<!-- GitHub Profile Stats Section -->
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul18A09&label=Profile%20Views&color=blue&style=flat" />
-  
-  <img src="https://img.shields.io/github/followers/Rahul18A09?label=Followers&style=social" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+       
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul18A09&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## ✍️ Random Dev Quote
