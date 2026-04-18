@@ -18,7 +18,7 @@
 ### 📬 Connect with Me  
 
 <p align="center">
- <a href="mailto:rahulbharda60@gmail.com">
+ <a href="mailto:rahulbharada.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
  <a href="https://www.linkedin.com/in/rahul-bharada-83275a365">
