@@ -65,12 +65,12 @@
 
 <p align="center">  
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul18A09&theme=tokyonight&hide_border=true" />
+       src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
