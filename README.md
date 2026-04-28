@@ -61,20 +61,24 @@
 
 <!-- GitHub Profile Stats Section -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- 🔥 GitHub Stats Section -->
+<div align="center">
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <!-- Stats + Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" />
-</p>
+  <br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true" />
-</p>
+  <!-- Streak Stats -->
+  <img height="165" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ## ✍️ Random Dev Quote
 <p align="center">
