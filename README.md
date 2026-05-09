@@ -61,23 +61,9 @@
 
 ### GitHub Profile Stats Section -->
 
-<!-- 🔥 GitHub Stats Section -->
+<!-- 🔥 GitHub Streak + Activity Graph -->
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
-
-  <!-- Top Languages -->
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true"
-  />
-
-  <br/><br/>
 
   <!-- Streak Stats -->
   <img 
