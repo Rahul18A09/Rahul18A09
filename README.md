@@ -67,34 +67,30 @@
 
   <!-- GitHub Stats -->
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   />
 
   <!-- Top Languages -->
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" 
-    alt="Top Languages"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true"
   />
 
   <br/><br/>
 
   <!-- Streak Stats -->
   <img 
-    width="70%" 
-    src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=12" 
-    alt="GitHub Streak"
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true"
   />
 
   <br/><br/>
 
   <!-- Activity Graph -->
   <img 
-    width="95%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&radius=12" 
-    alt="Activity Graph"
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true"
   />
 
 </div>
