@@ -76,10 +76,12 @@
   <br/><br/>
 
   <!-- Activity Graph -->
-  <img 
+  <p align="center">
+  <img
     width="95%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true"
   />
+</p>
 
 </div>
 
