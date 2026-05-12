@@ -66,10 +66,12 @@
 <div align="center">
 
   <!-- Streak Stats -->
-  <img 
-    width="70%"
+ <p align="center">
+  <img
     src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
+</p>
 
   <br/><br/>
 
