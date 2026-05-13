@@ -65,23 +65,30 @@
 
 <div align="center">
 
-  <!-- Streak Stats -->
- <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=Rahul18A09&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak Stats"
+    />
+  </picture>
 
-  <br/><br/>
+  <br /><br />
 
-  <!-- Activity Graph -->
-  <p align="center">
+  <!-- GitHub Activity Graph -->
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
   />
-</p>
 
 </div>
 
