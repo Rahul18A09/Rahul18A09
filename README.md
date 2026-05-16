@@ -63,17 +63,15 @@
 
 <div align="center">
 
- <div align="center">
+## GitHub Streak
 
-  { /* GitHub Streak Stats */ }
-  <picture>
-    <source srcSet="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-  </picture>
+<img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" />
 
-  <br /><br />
+<br /><br />
 
-  { /* GitHub Activity Graph */ }
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+## GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
