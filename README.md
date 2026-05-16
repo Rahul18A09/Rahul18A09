@@ -61,34 +61,21 @@
 
 ### GitHub Profile Stats Section -->
 
-<!-- 🔥 GitHub Streak + Activity Graph -->
-
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
+  { /* GitHub Streak Stats */ }
   <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=Rahul18A09&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak Stats"
-    />
+    <source srcSet="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    
+    <source srcSet="https://streak-stats.demolab.com?user=Rahul18A09&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    
+    <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </picture>
 
   <br /><br />
 
-  <!-- GitHub Activity Graph -->
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  { /* GitHub Activity Graph */ }
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
