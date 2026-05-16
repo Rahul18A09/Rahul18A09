@@ -63,13 +63,11 @@
 
 <div align="center">
 
+ <div align="center">
+
   { /* GitHub Streak Stats */ }
   <picture>
     <source srcSet="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    
-    <source srcSet="https://streak-stats.demolab.com?user=Rahul18A09&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    
-    <img src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </picture>
 
   <br /><br />
