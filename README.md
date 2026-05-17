@@ -41,7 +41,7 @@
 ### 🧠BackEnd Skills (Exploring)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,supabase&theme=dark&perline=4" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,git,github,postman&theme=light" />
   </a>
 </p>
 
