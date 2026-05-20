@@ -63,39 +63,25 @@
 
 <div align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=10" 
-    height="180"
-    alt="GitHub Streak"
-  />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=Rahul18A09&theme=tokyonight&hide_border=true" 
+  height="170"
+/>
 
-</div>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true" 
+  height="170"
+/>
 
-<br/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true" 
+  height="170"
+/>
 
-<div align="center">
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&area=true" 
-    width="95%" 
-    alt="Contribution Graph"
-  />
-
-</div>
-
----
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&area=true" 
+  width="95%"
+/>
 
 </div>
 
