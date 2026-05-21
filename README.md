@@ -64,23 +64,35 @@
 <div align="center">
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=Rahul18A09&theme=tokyonight&hide_border=true" 
-  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+  height="170" 
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="170"
+  src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=10" 
+  height="170" 
 />
 
+</div>
+
+<br/>
+
+<div align="center">
+
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true" 
-  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+  height="170" 
 />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&area=true" 
-  width="95%"
+  width="95%" 
 />
 
 </div>
