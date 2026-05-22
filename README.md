@@ -64,24 +64,13 @@
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
-  height="170" 
+  src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" 
+  height="165"
 />
 
 <img 
-  src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=10" 
-  height="170" 
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
-  height="170" 
+  src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=12" 
+  height="165"
 />
 
 </div>
@@ -91,8 +80,8 @@
 <div align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&area=true" 
-  width="95%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
+  height="165"
 />
 
 </div>
