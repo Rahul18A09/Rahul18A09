@@ -85,16 +85,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul18A09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true"/>
