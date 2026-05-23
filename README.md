@@ -61,26 +61,53 @@
 
 ### GitHub Profile Stats Section -->
 
+<!-- ====================== GitHub Stats Section ====================== -->
+
 <div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="48%"
-  />
+# 📊 GitHub Analytics
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true" 
-    width="48%"
-  />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true" 
-    width="40%"
-  />
-</p>
+<img height="180em" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul18A09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Rahul18A09&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
