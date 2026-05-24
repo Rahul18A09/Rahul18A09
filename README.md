@@ -65,19 +65,11 @@
 
 <div align="center">
 
-# 📊 GitHub Analytics
+# 🚀 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 </div>
 
@@ -85,15 +77,45 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8"/>
 
 </div>
 
 <br>
 
 <div align="center">
+
+## 📈 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul18A09&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Rahul18A09&theme=tokyonight&no-frame=true&margin-w=10&row=1)
+
+</div>
+
+<div align="center">
+
+### 💻 Coding Activity
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Rahul18A09&theme=tokyonight&hide_border=true)
+
+</div>
 
 ### 🚀 Profile Views
 
