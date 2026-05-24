@@ -115,8 +115,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Rahul18A09&theme=tokyonight&hide_border=true)
 
-</div>
-
 ### 🚀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=Rahul18A09&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
