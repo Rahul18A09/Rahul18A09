@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Rahul%20Bharada👋&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Web%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 <h3 align="center">Aspiring Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
