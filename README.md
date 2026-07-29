@@ -15,61 +15,55 @@
 
 ---
 
-### 📬 Connect with Me  
+### 📬 Connect with Me
 
 <p align="center">
- <a href="mailto:rahulbharada.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  <a href="mailto:rahulbharada.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Gmail" />
   </a>
- <a href="https://www.linkedin.com/in/rahul-bharada-83275a365">
-  <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/rahul-bharada-83275a365">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" />
   </a>
- <a href="https://www.instagram.com/_rahul_0918_?igsh=MWY0M3hmMXd0OGxqNw==">
-  <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
- </a>
+  <a href="https://www.instagram.com/_rahul_0918_?igsh=MWY0M3hmMXd0OGxqNw==">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
-### 🧠FrontEnd Skills
+### 🧠 Frontend Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vite&theme=light" alt="Frontend Skills" />
   </a>
 </p>
 
-### 🧠BackEnd Skills (Exploring)
+### 🧠 Backend Skills (Exploring)
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,supabase&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,supabase&theme=dark&perline=4" alt="Backend Skills" />
   </a>
 </p>
-
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=4" />
-</p> -->
-
 
 ### ⚙️ Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,git,github,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,git,github,postman&theme=light" alt="Tools" />
   </a>
 </p>
 
 ---
-
-### GitHub Profile Stats Section -->
-
-<!-- ====================== GitHub Stats Section ====================== -->
 
 <div align="center">
 
 # 🚀 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak"/>
 
 </div>
 
@@ -77,7 +71,7 @@
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -87,7 +81,7 @@
 
 ## 📈 Contribution Activity
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&radius=16"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&radius=16" alt="Contribution Graph"/>
 
 </div>
 
@@ -97,7 +91,7 @@
 
 ### ⚡ Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul18A09&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul18A09&theme=tokyonight" alt="Profile Summary"/>
 
 </div>
 
@@ -105,7 +99,7 @@
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Rahul18A09&theme=tokyonight&no-frame=true&margin-w=10&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul18A09&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -113,11 +107,11 @@
 
 ### 💻 Coding Activity
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Rahul18A09&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rahul18A09&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
 
 ### 🚀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=Rahul18A09&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Rahul18A09&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
