@@ -1,127 +1,241 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Rahul%20Bharada👋&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Web%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
-
-<h3 align="center">Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
-
-----
-
-💡 *“Code is like magic — if you know the spell, you can build anything.”*
-
----
-
-<div align="center">
-    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
-</div>
-
----
-
-### 📬 Connect with Me
+<!-- ========================================= -->
+<!-- HEADER -->
+<!-- ========================================= -->
 
 <p align="center">
-  <a href="mailto:rahulbharada.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-bharada-83275a365">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_rahul_0918_?igsh=MWY0M3hmMXd0OGxqNw==">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" alt="Instagram" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A8296,100:091519&height=220&section=header&text=Rahul%20Bharada&fontSize=48&fontColor=61DAFB&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Next.js%20•%20TypeScript%20•%20Node.js&descSize=22&descAlignY=58" />
+</p>
+
+<h2 align="center">
+Hi 👋 I'm Rahul Bharada
+</h2>
+
+<h3 align="center">
+Frontend Developer from India 🇮🇳 <br/>
+Building fast, scalable and user-friendly web applications.
+</h3>
+
+<p align="center">
+<a href="mailto:rahulbharada.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahul-bharada-83275a365">
+<img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
+</a>
+
+<a href="https://github.com/Rahul18A09">
+<img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB"/>
+</a>
+
+<a href="https://www.instagram.com/_rahul_0918_">
+<img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB"/>
+</a>
+
 </p>
 
 ---
 
-### 🧠 Frontend Skills
+# 👨‍💻 About Me
+
+```yaml
+Name: Rahul Bharada
+
+Role: Frontend Developer
+
+Location: Gujarat, India
+
+Currently Working On:
+  - FlightP
+  - Authentication System
+
+Learning:
+  - Backend Development
+  - System Design
+  - Docker
+  - Clean Architecture
+
+Goal:
+  Become a Full Stack Software Engineer
+
+Fun Fact:
+  I enjoy coding during train journeys while listening to Spotify 🎧
+```
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Frontend
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vite&theme=light" alt="Frontend Skills" />
-  </a>
-</p>
 
-### 🧠 Backend Skills (Exploring)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark"/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,supabase&theme=dark&perline=4" alt="Backend Skills" />
-  </a>
-</p>
-
-### ⚙️ Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,git,github,postman&theme=light" alt="Tools" />
-  </a>
 </p>
 
 ---
 
-<div align="center">
+## ⚙ Backend
 
-# 🚀 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&radius=16" alt="Contribution Graph"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚡ Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul18A09&theme=tokyonight" alt="Profile Summary"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul18A09&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-
-### 💻 Coding Activity
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rahul18A09&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
-
-### 🚀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Rahul18A09&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
-## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase&theme=dark"/>
+
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+## 🛠 Tools
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,vercel,render&theme=dark"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Next.js Advanced Concepts
+
+- Node.js
+
+- Authentication & Authorization
+
+- REST APIs
+
+- Docker
+
+- System Design
+
+- AWS Basics
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 Authentication System
+
+A complete authentication system built with MERN Stack.
+
+### Features
+
+- JWT Authentication
+
+- Refresh Token
+
+- Password Hashing
+
+- Role Based Authentication
+
+- Protected Routes
+
+- REST APIs
+
+---
+
+## ✈ FlightP
+
+Modern Empty Leg Flight Booking Platform.
+
+### Built With
+
+- Next.js
+
+- TypeScript
+
+- Tailwind CSS
+
+- Stripe
+
+- Supabase
+
+- REST API
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul18A09&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul18A09&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rahulbharada.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahul-bharada-83275a365">
+<img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
+</a>
+
+<a href="https://github.com/Rahul18A09">
+<img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Quote
+
+> **"Great software is built one clean commit at a time."**
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=24&fontColor=61DAFB"/>
+
+</p>
