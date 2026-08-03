@@ -57,67 +57,64 @@
 
 ---
 
-<!-- ========================= GitHub Analytics ========================= -->
+<!-- ========================================= -->
+<!-- 📊 GitHub Analytics -->
+<!-- ========================================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <i>My coding activity and GitHub statistics.</i>
-</p>
-
-<p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Rahul18A09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&rank_icon=github"
     alt="GitHub Stats"
   />
-
   <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=15"
+    width="48%"
+    src="https://streak-stats.demolab.com?user=Rahul18A09&theme=tokyonight&hide_border=true&border_radius=18"
     alt="GitHub Streak"
   />
 </p>
 
----
+<br>
+
+<!-- ========================================= -->
+<!-- 💻 Languages -->
+<!-- ========================================= -->
 
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-  <i>Languages I use most across my public repositories.</i>
-</p>
-
-<p align="center">
   <img
-    width="42%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"
+    width="38%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul18A09&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8"
     alt="Top Languages"
   />
 </p>
 
----
+<br>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<!-- ========================================= -->
+<!-- 📈 Activity Graph -->
+<!-- ========================================= -->
 
-<p align="center">
-  <i>My GitHub contribution activity over time.</i>
-</p>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&radius=15"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul18A09&theme=tokyo-night&hide_border=true&radius=18"
     alt="Contribution Graph"
   />
 </p>
 
----
+<br>
 
-<h2 align="center">📋 Profile Summary</h2>
+<!-- ========================================= -->
+<!-- 📋 Profile Details -->
+<!-- ========================================= -->
 
-<p align="center">
-  <i>A quick overview of my GitHub profile.</i>
-</p>
+<h2 align="center">📋 GitHub Profile Summary</h2>
 
 <p align="center">
   <img
@@ -126,6 +123,22 @@
     alt="Profile Summary"
   />
 </p>
+
+<br>
+
+<!-- ========================================= -->
+<!-- 🏆 Trophies -->
+<!-- ========================================= -->
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Rahul18A09&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
+    alt="GitHub Trophies"
+  />
+</p>
+
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
